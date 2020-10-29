@@ -8,7 +8,7 @@
 import ComponentsGallery from "@/components/pages/ComponentsGallery";
 export default {
   head: {
-    title: "Components > Gallery - Nuxt Stisla",
+    title: "Components - Gallery - Nuxt Stisla",
     link: [
       { rel: "stylesheet", href: "/modules/chocolat/dist/css/chocolat.css" }
     ],

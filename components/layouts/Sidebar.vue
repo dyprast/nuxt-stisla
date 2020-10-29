@@ -162,7 +162,9 @@
             >
             <ul class="dropdown-menu">
               <li :class="menu('article')">
-                <nuxt-link class="nav-link" to="/stisla/components/article">Article</nuxt-link>
+                <nuxt-link class="nav-link" to="/stisla/components/article"
+                  >Article</nuxt-link
+                >
               </li>
               <li :class="menu('avatar')">
                 <nuxt-link
@@ -172,7 +174,9 @@
                 >
               </li>
               <li :class="menu('chatBox')">
-                <nuxt-link class="nav-link" to="/stisla/components/chatBox">Chat Box</nuxt-link>
+                <nuxt-link class="nav-link" to="/stisla/components/chatBox"
+                  >Chat Box</nuxt-link
+                >
               </li>
               <li :class="menu('emptyState')">
                 <nuxt-link
@@ -182,7 +186,9 @@
                 >
               </li>
               <li :class="menu('gallery')">
-                <nuxt-link class="nav-link" to="/stisla/components/gallery">Gallery</nuxt-link>
+                <nuxt-link class="nav-link" to="/stisla/components/gallery"
+                  >Gallery</nuxt-link
+                >
               </li>
               <li :class="menu('hero')">
                 <nuxt-link
@@ -192,7 +198,9 @@
                 >
               </li>
               <li :class="menu('multipleUpload')">
-                <nuxt-link class="nav-link" to="/stisla/components/multipleUpload"
+                <nuxt-link
+                  class="nav-link"
+                  to="/stisla/components/multipleUpload"
                   >Multiple Upload</nuxt-link
                 >
               </li>
@@ -203,16 +211,48 @@
                   >Pricing</nuxt-link
                 >
               </li>
-              <li :class="menu('tab')"><nuxt-link class="nav-link" to="/stisla/components/tab">Tab</nuxt-link></li>
-              <li :class="menu('table')">
-                <nuxt-link class="nav-link" to="/stisla/components/table">Table</nuxt-link>
+              <li :class="menu('tab')">
+                <nuxt-link class="nav-link" to="/stisla/components/tab"
+                  >Tab</nuxt-link
+                >
               </li>
-              <li :class="menu('user')"><nuxt-link class="nav-link" to="/stisla/components/user">User</nuxt-link></li>
+              <li :class="menu('table')">
+                <nuxt-link class="nav-link" to="/stisla/components/table"
+                  >Table</nuxt-link
+                >
+              </li>
+              <li :class="menu('user')">
+                <nuxt-link class="nav-link" to="/stisla/components/user"
+                  >User</nuxt-link
+                >
+              </li>
               <li :class="menu('wizard')">
                 <nuxt-link
                   class="nav-link beep beep-sidebar"
                   to="/stisla/components/wizard"
                   >Wizard</nuxt-link
+                >
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown" :class="menu('forms')">
+            <a href="javascript:void(0)" class="nav-link has-dropdown"
+              ><i class="far fa-file-alt"></i> <span>Forms</span></a
+            >
+            <ul class="dropdown-menu">
+              <li :class="menu('advancedForm')">
+                <nuxt-link class="nav-link" to="/stisla/forms/advancedForm"
+                  >Advanced Form</nuxt-link
+                >
+              </li>
+              <li :class="menu('editor')">
+                <nuxt-link class="nav-link" to="/stisla/forms/editor"
+                  >Editor</nuxt-link
+                >
+              </li>
+              <li :class="menu('validation')">
+                <nuxt-link class="nav-link" to="/stisla/forms/validation"
+                  >Validation</nuxt-link
                 >
               </li>
             </ul>

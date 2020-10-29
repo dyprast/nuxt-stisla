@@ -8,7 +8,7 @@
 import ComponentsPricing from "@/components/pages/ComponentsPricing";
 export default {
   head: {
-    title: "Components > Pricing - Nuxt Stisla",
+    title: "Components - Pricing - Nuxt Stisla",
   },
   components: {
     ComponentsPricing,

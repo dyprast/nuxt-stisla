@@ -8,7 +8,7 @@
 import ComponentsTab from "@/components/pages/ComponentsTab";
 export default {
   head: {
-    title: "Components > Tab - Nuxt Stisla",
+    title: "Components - Tab - Nuxt Stisla",
   },
   components: {
     ComponentsTab,

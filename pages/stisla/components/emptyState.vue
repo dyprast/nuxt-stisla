@@ -8,7 +8,7 @@
 import ComponentsEmptyState from "@/components/pages/ComponentsEmptyState";
 export default {
   head: {
-    title: "Components > Empty State - Nuxt Stisla",
+    title: "Components - Empty State - Nuxt Stisla",
   },
   components: {
     ComponentsEmptyState,

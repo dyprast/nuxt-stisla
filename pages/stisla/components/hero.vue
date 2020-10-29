@@ -8,7 +8,7 @@
 import ComponentsHero from "@/components/pages/ComponentsHero";
 export default {
   head: {
-    title: "Components > Hero - Nuxt Stisla",
+    title: "Components - Hero - Nuxt Stisla",
   },
   components: {
     ComponentsHero,

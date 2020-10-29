@@ -8,7 +8,7 @@
 import ComponentsWizard from "@/components/pages/ComponentsWizard";
 export default {
   head: {
-    title: "Components > Wizard - Nuxt Stisla",
+    title: "Components - Wizard - Nuxt Stisla",
   },
   components: {
     ComponentsWizard,

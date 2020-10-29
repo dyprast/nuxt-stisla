@@ -8,7 +8,7 @@
 import ComponentsUser from "@/components/pages/ComponentsUser";
 export default {
   head: {
-    title: "Components > User - Nuxt Stisla"
+    title: "Components - User - Nuxt Stisla"
 	},
   components: {
     ComponentsUser,

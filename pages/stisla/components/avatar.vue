@@ -8,7 +8,7 @@
 import ComponentsAvatar from "@/components/pages/ComponentsAvatar";
 export default {
   head: {
-    title: "Components > Avatar - Nuxt Stisla",
+    title: "Components - Avatar - Nuxt Stisla",
   },
   components: {
     ComponentsAvatar,

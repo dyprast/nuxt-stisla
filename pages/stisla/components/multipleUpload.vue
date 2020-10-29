@@ -8,7 +8,7 @@
 import ComponentsMultipleUpload from "@/components/pages/ComponentsMultipleUpload";
 export default {
   head: {
-    title: "Components > Multiple Upload - Nuxt Stisla",
+    title: "Components - Multiple Upload - Nuxt Stisla",
     link: [
       { rel: "stylesheet", href: "/modules/dropzonejs/dropzone.css" }
     ],
