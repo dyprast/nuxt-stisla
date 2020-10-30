@@ -3,10 +3,10 @@
     <div class="main-sidebar sidebar-style-2">
       <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-          <nuxt-link to="/">Nuxt Stisla</nuxt-link>
+          <nuxt-link to="/dashboard/ecommerce">Nuxt Stisla</nuxt-link>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
-          <nuxt-link to="/">Ns</nuxt-link>
+          <nuxt-link to="/dashboard/ecommerce">Ns</nuxt-link>
         </div>
         <ul class="sidebar-menu">
           <li class="menu-header">Dashboard</li>
