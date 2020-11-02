@@ -279,7 +279,7 @@
               src="/img/avatar/avatar-1.png"
               class="rounded-circle mr-1"
             />
-            <div class="d-sm-none d-lg-inline-block">Hi, Ujang Maman</div></a
+            <div class="d-sm-none d-lg-inline-block">Hi, Bang Ujang</div></a
           >
           <div class="dropdown-menu dropdown-menu-right">
             <div class="dropdown-title">Logged in 5 min ago</div>
